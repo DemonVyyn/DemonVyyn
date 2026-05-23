@@ -24,8 +24,8 @@ const DemonVyyn = {
   role    : "Web Developer",
   based   : "Indonesia 🇮🇩",
   status  : "Always grinding, always building 🔥",
-  hobbies : ["coding", "anime", "coffee ☕"],
-  motto   : "Sharingan ON — bugs don't hide from me 👁️",
+  hobbies : ["coding", "Donghua", "Tea ☕"],
+  motto   : "(Hi no Ishi",
 };
 ```
 
