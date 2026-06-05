@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=FF3333&center=true&vCenter=true&width=600&lines=Muhammad+Arifin+%F0%9F%91%8B;Saya+DemonVyyn+%F0%9F%91%BF;Web+Developer+%7C+Code+Shinobi+%E2%9A%A1;Building+the+web+one+commit+at+a+time)](https://git.io/typing-svg)
 
-<img src="./gif/wanglin.gif" width="480" alt="wanglin" />
+
 
 <br/>
 
@@ -125,7 +125,7 @@ const DemonVyyn = {
 
 <div align="center">
 
-<img src="./gif/sharingan.gif" width="80" alt="sharingan" />
+<img src="./gif/wanglin.gif" width="480" alt="wanglin" />
 
 <sub>⚔️ <b>DemonVyyn</b> — Code with the eyes of a shinobi</sub>
 
